@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/medical-practice/static/css/main.1ccc736e.css",
-    "main.js": "/medical-practice/static/js/main.e0bbe054.js",
+    "main.js": "/medical-practice/static/js/main.444b1464.js",
     "static/js/453.c453bc39.chunk.js": "/medical-practice/static/js/453.c453bc39.chunk.js",
     "static/media/medical-hero.png": "/medical-practice/static/media/medical-hero.d3c0338b7c1cf464ad03.png",
     "index.html": "/medical-practice/index.html",
     "main.1ccc736e.css.map": "/medical-practice/static/css/main.1ccc736e.css.map",
-    "main.e0bbe054.js.map": "/medical-practice/static/js/main.e0bbe054.js.map",
+    "main.444b1464.js.map": "/medical-practice/static/js/main.444b1464.js.map",
     "453.c453bc39.chunk.js.map": "/medical-practice/static/js/453.c453bc39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ccc736e.css",
-    "static/js/main.e0bbe054.js"
+    "static/js/main.444b1464.js"
   ]
 }
